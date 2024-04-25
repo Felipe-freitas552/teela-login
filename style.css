@@ -14,6 +14,7 @@ body{
    background: url(img/img.jpg) no-repeat;
    background-size: cover ;
    background-position: center;
+   color: #fff;
 }
 
 
@@ -119,4 +120,16 @@ body{
 .register-link p a:hover {
     text-decoration: underline;
 
+}
+.corpinho{
+    body.corpinho {
+        display: flex;
+        justify-content: center;
+        align-items:  center;
+        min-height: 100vh;
+       background: url(img/download.jpg) no-repeat;
+       background-size: cover ;
+       background-position: center;
+       color: #fff;
+    }
 }
